@@ -1,4 +1,4 @@
-# laura-dashboard
+# shiny-dashboard
 
 Zorg dat je niet op de main branch werkt.
 Git commands die je nodig hebt:
